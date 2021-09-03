@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://azellft.com</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://azellft.com" />
+        <lastmod>2021-08-28T00:00:00-05:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://azellft.com/blog</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://azellft.com/blog" />
+        <lastmod>2021-08-28T00:00:00-05:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://azellft.com/register</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://azellft.com/register" />
+        <lastmod>2021-08-28T00:00:00-05:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://azellft.com</loc>
+        <lastmod>2021-08-29T00:00:04-05:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://azellft.com/</loc>
+        <lastmod>2021-08-29T00:00:04-05:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://azellft.com/blog</loc>
+        <lastmod>2021-08-29T00:00:04-05:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://azellft.com/investment</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://azellft.com/investment" />
+        <lastmod>2021-08-28T00:00:00-05:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://azellft.com/locale/en</loc>
+        <lastmod>2021-08-29T00:00:04-05:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://azellft.com/locale/es</loc>
+        <lastmod>2021-08-29T00:00:05-05:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://azellft.com/login</loc>
+        <lastmod>2021-08-29T00:00:04-05:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://azellft.com/privacy-policies</loc>
+        <lastmod>2021-08-29T00:00:04-05:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://azellft.com/register</loc>
+        <lastmod>2021-08-29T00:00:04-05:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://azellft.com/terms</loc>
+        <lastmod>2021-08-29T00:00:04-05:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>

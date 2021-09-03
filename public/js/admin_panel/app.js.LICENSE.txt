@@ -1,0 +1,231 @@
+/*!
+             * pickadate.js v3.6.3, 2019/04/03
+             * By Amsul, http://amsul.ca
+             * Hosted on http://amsul.github.io/pickadate.js
+             * Licensed under MIT
+             */
+
+/*!
+         * Chart.js
+         * http://chartjs.org/
+         * Version: 2.7.3
+         *
+         * Copyright 2018 Chart.js Contributors
+         * Released under the MIT license
+         * https://github.com/chartjs/Chart.js/blob/master/LICENSE.md
+         */
+
+/*!
+         * Date picker for pickadate.js v3.6.3
+         * http://amsul.github.io/pickadate.js/date.htm
+         */
+
+/*!
+         * Waves v0.7.6
+         * http://fian.my.id/Waves
+         *
+         * Copyright 2014-2018 Alfiana E. Sibuea and other contributors
+         * Released under the MIT license
+         * https://github.com/fians/Waves/blob/master/LICENSE
+         */
+
+/*!
+         * bsCustomFileInput v1.3.2 (https://github.com/Johann-S/bs-custom-file-input)
+         * Copyright 2018 - 2019 Johann-S <johann.servoire@gmail.com>
+         * Licensed under MIT (https://github.com/Johann-S/bs-custom-file-input/blob/master/LICENSE)
+         */
+
+/*!
+         * chartjs-plugin-datalabels v0.7.0
+         * https://chartjs-plugin-datalabels.netlify.com
+         * (c) 2019 Chart.js Contributors
+         * Released under the MIT license
+         */
+
+/*!
+         * perfect-scrollbar v1.4.0
+         * (c) 2018 Hyunje Jun
+         * @license MIT
+         */
+
+/*!
+     * ClockPicker v0.0.7 (http://weareoutman.github.io/clockpicker/)
+     * Copyright 2014 Wang Shenwei.
+     * Licensed under MIT (https://github.com/weareoutman/clockpicker/blob/gh-pages/LICENSE)
+     *
+     * Further modified
+     * Copyright 2015 Ching Yaw Hao.
+     */
+
+/*!
+     * Name    : Just Another Parallax [Jarallax]
+     * Version : 1.10.4
+     * Author  : nK <https://nkdev.info>
+     * GitHub  : https://github.com/nk-o/jarallax
+     */
+
+/*!
+     * Name    : Video Background Extension for Jarallax
+     * Version : 1.0.1
+     * Author  : nK <https://nkdev.info>
+     * GitHub  : https://github.com/nk-o/jarallax
+     */
+
+/*!
+  * Bootstrap v4.4.1 (https://getbootstrap.com/)
+  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  */
+
+/*!
+ * HTML5 export buttons for Buttons and DataTables.
+ * 2016 SpryMedia Ltd - datatables.net/license
+ *
+ * FileSaver.js (1.3.3) - MIT license
+ * Copyright © 2016 Eli Grey - http://eligrey.com
+ */
+
+/*!
+ * Material Design for Bootstrap 4
+ *   Version: MDB PRO 4.11.0
+ * 
+ * 
+ *   Copyright: Material Design for Bootstrap
+ *   https://mdbootstrap.com/
+ * 
+ *   Read the license: https://mdbootstrap.com/general/license/
+ * 
+ * 
+ *   Documentation: https://mdbootstrap.com/
+ * 
+ *   Getting started: https://mdbootstrap.com/docs/jquery/getting-started/download/
+ * 
+ *   Tutorials: https://mdbootstrap.com/education/bootstrap/
+ * 
+ *   Templates: https://mdbootstrap.com/templates/
+ * 
+ *   Support: https://mdbootstrap.com/support/
+ * 
+ *   Contact: office@mdbootstrap.com
+ * 
+ *   Attribution: Animate CSS, Twitter Bootstrap, Materialize CSS, Normalize CSS, Waves JS, WOW JS, Toastr, Chart.js, jquery.easing.js, velocity.js, chart.js, wow.js, scrolling-navbar.js, waves.js, forms-free.js, preloading.js, cards.js, character-counter.js, toastr.js, smooth-scroll.js, dropdown.js, buttons.js, sidenav.js, collapsible.js, range-input.js, file-input.js, material-select.js, picker.js, picker-date.js, picker-time.js, lightbox.js, jquery.sticky.js, scrollbar.js, chips.js, ofi.js, jarallax.js, jarallax-video.js, mdb-autocomplete.js, enhanced-modals.js, treeview.js
+ */
+
+/*!
+ * Print button for Buttons and DataTables.
+ * 2016 SpryMedia Ltd - datatables.net/license
+ */
+
+/*!
+ * Sizzle CSS Selector Engine v2.3.3
+ * https://sizzlejs.com/
+ *
+ * Copyright jQuery Foundation and other contributors
+ * Released under the MIT license
+ * http://jquery.org/license
+ *
+ * Date: 2016-08-08
+ */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*!
+ * jQuery JavaScript Library v3.2.1
+ * https://jquery.com/
+ *
+ * Includes Sizzle.js
+ * https://sizzlejs.com/
+ *
+ * Copyright JS Foundation and other contributors
+ * Released under the MIT license
+ * https://jquery.org/license
+ *
+ * Date: 2017-03-20T18:59Z
+ */
+
+/*!
+ * jQuery blockUI plugin
+ * Version 2.70.0-2014.11.23
+ * Requires jQuery v1.7 or later
+ *
+ * Examples at: http://malsup.com/jquery/block/
+ * Copyright (c) 2007-2013 M. Alsup
+ * Dual licensed under the MIT and GPL licenses:
+ * http://www.opensource.org/licenses/mit-license.php
+ * http://www.gnu.org/licenses/gpl.html
+ *
+ * Thanks to Amir-Hossein Sobhi for some excellent contributions!
+ */
+
+/*!
+* Parsley.js
+* Version 2.9.2 - built Tue, Dec 10th 2019, 6:18 pm
+* http://parsleyjs.org
+* Guillaume Potier - <guillaume@wisembly.com>
+* Marc-Andre Lafortune - <petroselinum@marc-andre.ca>
+* MIT Licensed
+*/
+
+/*! Bootstrap 4 integration for DataTables' Responsive
+ * ©2016 SpryMedia Ltd - datatables.net/license
+ */
+
+/*! Buttons for DataTables 1.6.1
+ * ©2016-2019 SpryMedia Ltd - datatables.net/license
+ */
+
+/*! DataTables 1.10.20
+ * ©2008-2019 SpryMedia Ltd - datatables.net/license
+ */
+
+/*! DataTables Bootstrap 4 integration
+ * ©2011-2017 SpryMedia Ltd - datatables.net/license
+ */
+
+/*! Note that this has been modified by Materialize to confirm that Velocity is not already being imported. */
+
+/*! PhotoSwipe - v4.1.1 - 2015-12-24
+         * http://photoswipe.com
+         * Copyright (c) 2015 Dmitry Semenov; */
+
+/*! Responsive 2.2.3
+ * 2014-2018 SpryMedia Ltd - datatables.net/license
+ */
+
+/*! VelocityJS.org (1.2.3). (C) 2014 Julian Shapiro. MIT @license: en.wikipedia.org/wiki/MIT_License */
+
+/*! VelocityJS.org jQuery Shim (1.0.1). (C) 2014 The jQuery Foundation. MIT @license: en.wikipedia.org/wiki/MIT_License. */
+
+/*! includes JsRender, JsObservable and JsViews - see: http://jsviews.com/#download */
+
+/*! jsviews.js v1.0.6 single-file version: http://jsviews.com/ */
+
+/**!
+ * @fileOverview Kickass library to create and place poppers near their reference elements.
+ * @version 1.16.1
+ * @license
+ * Copyright (c) 2016 Federico Zivolo and contributors
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ */
